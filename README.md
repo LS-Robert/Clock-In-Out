@@ -20,7 +20,7 @@ The Discord notification furnishes essential information, **including the user I
 
 1. **Open the Script in Your Preferred Text Editor:**
 2. **Replace the Webhook Variables:**
-   - Locate the variables [`discordWebhookIn`](#server.lua#L3) and [`discordWebhookOut`](#server.lua#L4).
+   - Locate the variables [`discordWebhookIn`](server.lua#L3) and [`discordWebhookOut`](server.lua#L4).
    - Replace them with the corresponding URLs of your Discord webhooks.
 ![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/95f12ee1-2bf7-4e19-ac41-6ea3a6ddb9c6)
 
@@ -31,7 +31,7 @@ The Discord notification furnishes essential information, **including the user I
 ## FiveM Licenses Configuration 🛡️
 
 1. **Locate the List of Licenses:**
-   - Find the list [`allowedLicenses`](#server.lua#L8) within the script.
+   - Find the list [`allowedLicenses`](server.lua#L8) within the script.
 
 2. **Update the Licenses:**
    - Replace the example licenses with the actual licenses of authorized users.
@@ -55,7 +55,7 @@ La notificación en Discord proporciona información esencial, **incluyendo la I
 
 1. **Abre el Script en tu Editor de Texto Preferido:**
 2. **Reemplaza las Variables de Webhook:**
-   - Localiza las variables [`discordWebhookIn`](#server.lua#L3) y [`discordWebhookOut`](#server.lua#L4).
+   - Localiza las variables [`discordWebhookIn`](server.lua#L3) y [`discordWebhookOut`](server.lua#L4).
    - Reemplázalas con las URLs correspondientes de tus webhooks de Discord.
 ![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/5dda0716-8eee-4826-a18b-dbc97e581b33)
 
@@ -64,7 +64,7 @@ La notificación en Discord proporciona información esencial, **incluyendo la I
 ## Configuración de Licencias de FiveM 🛡️
 
 1. **Localiza la Lista de Licencias:**
-   - Encuentra la lista [`allowedLicenses`](#server.lua#L8) dentro del script.
+   - Encuentra la lista [`allowedLicenses`](server.lua#L8) dentro del script.
 
 2. **Actualiza las Licencias:**
    - Sustituye las licencias de ejemplo con las licencias reales de los usuarios autorizados.
