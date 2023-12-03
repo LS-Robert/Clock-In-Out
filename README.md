@@ -20,9 +20,10 @@ The Discord notification furnishes essential information, **including the user I
 
 1. **Open the Script in Your Preferred Text Editor:**
 2. **Replace the Webhook Variables:**
-   - Locate the variables [`discordWebhookIn`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L3) and [`discordWebhookOut`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L4).
+   - Locate the variables [`discordWebhookIn`](#server.lua#L3) and [`discordWebhookOut`](#server.lua#L4).
    - Replace them with the corresponding URLs of your Discord webhooks.
-![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/b468320c-20cb-40b8-bae2-45cea6470a2b)
+![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/95f12ee1-2bf7-4e19-ac41-6ea3a6ddb9c6)
+
 
 
 ---
@@ -30,12 +31,11 @@ The Discord notification furnishes essential information, **including the user I
 ## FiveM Licenses Configuration 🛡️
 
 1. **Locate the List of Licenses:**
-   - Find the list [`allowedLicenses`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L8) within the script.
+   - Find the list [`allowedLicenses`](#server.lua#L8) within the script.
 
 2. **Update the Licenses:**
    - Replace the example licenses with the actual licenses of authorized users.
-![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/f3ed0933-5af5-4d72-bb05-56588293ec6f)
-
+![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/ef1d6307-bf4e-4218-82e3-2c551d994acd)
 
 With these configuration steps, you can efficiently customize the behavior of the script to suit the specific needs of your FiveM server. 🙌
 
@@ -55,21 +55,20 @@ La notificación en Discord proporciona información esencial, **incluyendo la I
 
 1. **Abre el Script en tu Editor de Texto Preferido:**
 2. **Reemplaza las Variables de Webhook:**
-   - Localiza las variables [`discordWebhookIn`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L3) y [`discordWebhookOut`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L4).
+   - Localiza las variables [`discordWebhookIn`](#server.lua#L3) y [`discordWebhookOut`](#server.lua#L4).
    - Reemplázalas con las URLs correspondientes de tus webhooks de Discord.
-![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/b3ed1090-4ef5-4f48-a4fb-0e97321ef62d)
-
+![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/5dda0716-8eee-4826-a18b-dbc97e581b33)
 
 ---
 
 ## Configuración de Licencias de FiveM 🛡️
 
 1. **Localiza la Lista de Licencias:**
-   - Encuentra la lista [`allowedLicenses`](#https://github.com/LS-Robert/Clock-In-Out/blob/main/server.lua#L8) dentro del script.
+   - Encuentra la lista [`allowedLicenses`](#server.lua#L8) dentro del script.
 
 2. **Actualiza las Licencias:**
    - Sustituye las licencias de ejemplo con las licencias reales de los usuarios autorizados.
-![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/624e654b-13db-430f-9054-415685702fe4)
+![image](https://github.com/LS-Robert/Clock-In-Out/assets/78977643/d4f7110e-78a9-4368-844c-9b4f0b49d506)
 
 Con estos pasos de configuración, puede personalizar de manera eficiente el comportamiento del script para adaptarlo a las necesidades específicas de su servidor FiveM. 🙌
 
